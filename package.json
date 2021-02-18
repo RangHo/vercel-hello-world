@@ -1,0 +1,16 @@
+{
+  "name": "vercel-hello-world",
+  "version": "1.0.0",
+  "description": "Simple \"Hello, world!\" app for Vercel",
+  "main": "dist/index.js",
+  "repository": "https://github.com/RangHo/vercel-hello-world",
+  "author": "RangHo Lee <hello@rangho.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "@vercel/node": "^1.9.0",
+    "typescript": "^4.1.5"
+  },
+  "dependencies": {
+    "vercel": "^21.2.3"
+  }
+}
